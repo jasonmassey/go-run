@@ -1,4 +1,4 @@
-# ASCII Obstacle Avoidance Game
+# go-run
 
 ## Summary
 The game is a simple ASCII-based obstacle avoidance game where the player controls a character (`@`) navigating through a field filled with obstacles (`#`). The objective is to avoid collisions with obstacles and accumulate points by successfully navigating through the field. The game ends after one minute or when the player collides with an obstacle.
