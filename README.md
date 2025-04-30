@@ -8,7 +8,7 @@ The game is a simple ASCII-based obstacle avoidance game where the player contro
 
 2. **Clone the Repository**: Clone the repository containing the game source code to your local machine.
    ```sh
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/jasonmassey/go-run.git
    cd your-repo
    ```
 
